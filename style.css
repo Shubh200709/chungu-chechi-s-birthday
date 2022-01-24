@@ -1,0 +1,31 @@
+*{
+    background-color: crimson;
+}
+
+.intro{
+    font-family: sans-serif;
+    color: #f5cd79;
+    font-size: 25px;
+}
+
+h1{
+    color: gold;
+}
+
+.body{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img{
+    border-radius: 20px;
+    background-color: gold;
+    padding: 30px;
+    margin: 25px;
+    width:310px;
+    font-family: sans-serif;
+}
+
+.img:hover{
+    transform: scale(1.1);
+}
